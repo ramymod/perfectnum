@@ -1,0 +1,6 @@
+C:\Users\HELAL\Desktop\perfect num\perfect num\obj\Debug\perfect num.csprojAssemblyReference.cache
+C:\Users\HELAL\Desktop\perfect num\perfect num\bin\Debug\perfect num.exe.config
+C:\Users\HELAL\Desktop\perfect num\perfect num\bin\Debug\perfect num.exe
+C:\Users\HELAL\Desktop\perfect num\perfect num\bin\Debug\perfect num.pdb
+C:\Users\HELAL\Desktop\perfect num\perfect num\obj\Debug\perfect num.exe
+C:\Users\HELAL\Desktop\perfect num\perfect num\obj\Debug\perfect num.pdb
